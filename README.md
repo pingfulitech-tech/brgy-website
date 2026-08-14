@@ -79,7 +79,7 @@ backend, which pulls from MongoDB Atlas.
 
 ## Customizing
 
-- Replace the placeholder barangay name ("San Isidro"), address, hotline numbers, and
+- Replace the placeholder barangay name ("Dita"), address, hotline numbers, and
   seal artwork in `frontend/src/components/Seal.jsx`, `Navbar.jsx`, and `Footer.jsx`.
 - Edit `backend/seed.js` to change the starting officials, services, and announcements.
 - All colors/fonts are defined as CSS variables at the top of `frontend/src/index.css`.
