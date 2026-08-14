@@ -1,4 +1,5 @@
-# Barangay San Isidro — Official Website
+//This is First Time Using Git
+# Barangay Dita — Official Website
 
 A full-stack barangay (village) website built with **React (Vite)** on the frontend,
 **Node.js/Express** on the backend, and **MongoDB Atlas** as the database. The project
